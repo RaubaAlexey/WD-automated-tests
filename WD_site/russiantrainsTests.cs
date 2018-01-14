@@ -17,6 +17,7 @@ namespace WD_site
         Steps.Steps steps = new Steps.Steps();
         public string defaultDeparture = "Helsinki";
         public string defaultArrival = "Moscow";
+        public string wrongArrival = "Atlantis";
 
         public string dafaultAdult = "";
         public string defaultAge = "5";
@@ -49,7 +50,7 @@ namespace WD_site
         
         // 1. Тест на пустое поле.
         [Test]
-        public void errorArrival()
+        public void EmptyArrival()
         {
             steps.SearchEmpty(defaultDeparture, "", DateTime.Now.Month, DateTime.Now.Day);
             Assert.AreEqual(steps.Error(), true);
@@ -117,10 +118,17 @@ namespace WD_site
         public void ErrorData()
         {
             steps.SearchNormalData(defaultDeparture, defaultArrival, DateTime.Now.Month, DateTime.Now.Day+4, wrongFName, wrongLName, phone);
-
             Assert.AreEqual(steps.Error(), true);
         }
 
+        // 10. Тест на поездку в несуществующее место
+        [Test]
+        public void ErrorArrival()
+        {
+            steps.SearchEmpty(defaultDeparture, wrongArrival, DateTime.Now.Month, DateTime.Now.Day);
+            Assert.AreEqual(steps.Error(), true);
+
+        }
     }
 
 
