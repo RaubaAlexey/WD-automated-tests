@@ -1,0 +1,21 @@
+I:\Учёба\Курс 4\Тестирование ПО\WD_site\WD_site\bin\Debug\WD_site.dll
+I:\Учёба\Курс 4\Тестирование ПО\WD_site\WD_site\bin\Debug\WD_site.pdb
+I:\Учёба\Курс 4\Тестирование ПО\WD_site\WD_site\bin\Debug\nunit.framework.dll
+I:\Учёба\Курс 4\Тестирование ПО\WD_site\WD_site\bin\Debug\WebDriver.dll
+I:\Учёба\Курс 4\Тестирование ПО\WD_site\WD_site\bin\Debug\WebDriver.Support.dll
+I:\Учёба\Курс 4\Тестирование ПО\WD_site\WD_site\bin\Debug\nunit.framework.xml
+I:\Учёба\Курс 4\Тестирование ПО\WD_site\WD_site\bin\Debug\WebDriver.xml
+I:\Учёба\Курс 4\Тестирование ПО\WD_site\WD_site\bin\Debug\WebDriver.Support.xml
+I:\Учёба\Курс 4\Тестирование ПО\WD_site\WD_site\obj\Debug\WD_site.csprojResolveAssemblyReference.cache
+I:\Учёба\Курс 4\Тестирование ПО\WD_site\WD_site\obj\Debug\WD_site.dll
+I:\Учёба\Курс 4\Тестирование ПО\WD_site\WD_site\obj\Debug\WD_site.pdb
+C:\Users\Laptop\Desktop\WD_site\WD_site\bin\Debug\WD_site.dll
+C:\Users\Laptop\Desktop\WD_site\WD_site\bin\Debug\WD_site.pdb
+C:\Users\Laptop\Desktop\WD_site\WD_site\bin\Debug\nunit.framework.dll
+C:\Users\Laptop\Desktop\WD_site\WD_site\bin\Debug\WebDriver.dll
+C:\Users\Laptop\Desktop\WD_site\WD_site\bin\Debug\WebDriver.Support.dll
+C:\Users\Laptop\Desktop\WD_site\WD_site\bin\Debug\nunit.framework.xml
+C:\Users\Laptop\Desktop\WD_site\WD_site\bin\Debug\WebDriver.xml
+C:\Users\Laptop\Desktop\WD_site\WD_site\bin\Debug\WebDriver.Support.xml
+C:\Users\Laptop\Desktop\WD_site\WD_site\obj\Debug\WD_site.dll
+C:\Users\Laptop\Desktop\WD_site\WD_site\obj\Debug\WD_site.pdb
